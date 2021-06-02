@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<y>
+    <title>Hi World</title>
+    <label>Hello World8</label>
+    <browserComponent url="https://www.codenameone.com" preferredH="400"/>
+</y>
